@@ -1,4 +1,4 @@
-# SimpleC_Like_Parser
+# SimpleXML_Like_Parser
 A flex/bison parser for a simplified version of XML
 
 To run use terminal commands:
